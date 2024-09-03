@@ -122,11 +122,11 @@
 
             <RelativeLayout
                 android:id="@+id/rl_search"
-                android:layout_width="130dp"
-                android:layout_height="130dp"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
                 android:layout_alignParentStart="true"
                 android:layout_alignParentTop="true"
-                android:layout_margin="8dp"
+                android:layout_margin="16dp"
                 android:background="@drawable/button"
                 android:elevation="8dp"
                 android:stateListAnimator="@null"
@@ -160,11 +160,11 @@
 
             <RelativeLayout
                 android:id="@+id/rl_saved"
-                android:layout_width="130dp"
-                android:layout_height="130dp"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
                 android:layout_alignParentTop="true"
                 android:layout_alignParentEnd="true"
-                android:layout_margin="8dp"
+                android:layout_margin="16dp"
                 android:background="@drawable/button"
                 android:elevation="8dp"
                 android:stateListAnimator="@null"
@@ -198,11 +198,11 @@
 
             <RelativeLayout
                 android:id="@+id/rl_statistic"
-                android:layout_width="130dp"
-                android:layout_height="130dp"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
                 android:layout_below="@id/rl_search"
                 android:layout_alignParentStart="true"
-                android:layout_margin="8dp"
+                android:layout_margin="16dp"
                 android:background="@drawable/button"
                 android:elevation="8dp"
                 android:stateListAnimator="@null"
@@ -235,11 +235,11 @@
             </RelativeLayout>
 
             <RelativeLayout
-                android:layout_width="130dp"
-                android:layout_height="130dp"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
                 android:layout_below="@id/rl_saved"
                 android:layout_alignParentEnd="true"
-                android:layout_margin="8dp"
+                android:layout_margin="16dp"
                 android:background="@drawable/button"
                 android:elevation="8dp"
                 android:stateListAnimator="@null"
